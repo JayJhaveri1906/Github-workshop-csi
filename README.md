@@ -13,4 +13,6 @@ apparantly to go to new line while tping you type #?
 without changing line __BOLD__ 
 _italics_  also  *italic*
 
->quotes> no quotes...
+>quotes
+
+'code here like pip install someshit'

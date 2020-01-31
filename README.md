@@ -19,5 +19,7 @@ _italics_  also  *italic*
 
 `code here like pip install someshit`
 
-```multi line
-code```
+```
+multi line
+code
+```

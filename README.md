@@ -11,3 +11,6 @@ apparantly to go to new line while tping you type #?
  without changing next line **BOLD**
 
 without changing line __BOLD__ 
+_italics_  also  *italic*
+
+>quotes> no quotes...

@@ -15,4 +15,4 @@ _italics_  also  *italic*
 
 >quotes
 
-'code here like pip install someshit'
+~code here like pip install someshit~

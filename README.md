@@ -17,7 +17,7 @@ _italics_  also  *italic*
 
 >quotes
 
-`code here like pip install someshit`
+`single line code here like pip install someshit`
 
 ```
 multi line
@@ -25,3 +25,5 @@ code
 ```
 
 [Link Here](https://bentenfanpage.000webhostapp.com/index.html)
+
+
